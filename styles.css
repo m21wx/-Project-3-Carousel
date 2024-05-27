@@ -42,6 +42,8 @@
     min-height: 100px;
     text-align: center;
     border-bottom: 1px solid green;
+    overflow: hidden;
+    word-break: break-all;
 }
 .box .but{
     /* height: 50px; */
